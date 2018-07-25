@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+   <body>
+   
+      <table border = 1>
+         {% for key in result %}
+         
+            <tr>
+               <td> {{ key['firstname'] }} </td>
+               <td> {{ key['secondname'] }} </td>
+            </tr>
+            
+         {% endfor %}
+      </table>
+      
+   </body>
+</html>

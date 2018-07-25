@@ -1,0 +1,4 @@
+2018-07-25 22:17:48,247 -                   DI -   Thread-1 - INFO - Starting data ingestion
+2018-07-25 22:17:48,247 -        DI.Controller -   Thread-1 - INFO - Inside Controller
+2018-07-25 22:17:48,256 -         DI.Processor -   Worker-2 - INFO - Inside Processor
+2018-07-25 22:17:48,256 -         DI.Processor -   Worker-1 - INFO - Inside Processor
